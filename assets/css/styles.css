@@ -1,0 +1,95 @@
+/* BACKGROUND COLOR */
+
+.bg-beige {
+  background-color: #ffebcd;
+}
+
+/* TEXT COLOR */
+
+.text-black {
+  color: #000000;
+}
+
+.text-brown {
+  color: #800000;
+}
+
+.text-red-100 {
+  color: #ff0000;
+}
+
+.text-red-200 {
+  color: #d03333;
+}
+
+/* DISPLAY */
+
+.grid {
+  display: grid;
+}
+
+.grid-cols-2 {
+  grid-template-columns: 25% 75%;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.w-screen {
+  width: 100vw;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list-none {
+  list-style-type: none;
+}
+
+.pr-8 {
+  padding-right: 2rem;
+}
+
+.my-40 {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+.mx-8 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.text-lg {
+  font-size: 2rem;
+}
+
+.flex {
+  justify-content: ;
+}
